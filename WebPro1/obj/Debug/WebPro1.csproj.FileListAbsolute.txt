@@ -1,0 +1,6 @@
+E:\work\mycode\WebPro1\bin\Debug\WebPro1.exe.config
+E:\work\mycode\WebPro1\bin\Debug\WebPro1.exe
+E:\work\mycode\WebPro1\bin\Debug\WebPro1.pdb
+E:\work\mycode\WebPro1\obj\Debug\WebPro1.csprojAssemblyReference.cache
+E:\work\mycode\WebPro1\obj\Debug\WebPro1.exe
+E:\work\mycode\WebPro1\obj\Debug\WebPro1.pdb
